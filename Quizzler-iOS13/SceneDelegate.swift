@@ -1,9 +1,8 @@
 //
-//  SceneDelegate.swift
+//  Question.swift
 //  Quizzler-iOS13
 //
-//  Created by Angela Yu on 12/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Prasshant Shanmugalingam on 23/07/2023.
 //
 
 import UIKit
